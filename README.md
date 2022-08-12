@@ -1,2 +1,1 @@
-# Tindog-Static-website
-A static website tindog.....
+TinDog Starting Files
